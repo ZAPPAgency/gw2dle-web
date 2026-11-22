@@ -1,0 +1,1 @@
+function e(e,t){let n=(t,n)=>{let r=`data-${t.replace(/[A-Z]/g,e=>`-${e.toLowerCase()}`)}`;n===void 0?e.removeAttribute(r):e.setAttribute(r,n)};n(`colorblind`,t.colorblind?`true`:void 0),n(`reducedMotion`,t.reducedMotion===void 0?void 0:String(t.reducedMotion)),n(`theme`,t.theme===`light`?`light`:void 0)}function t(e,t){return e.reducedMotion??t}export{t as n,e as t};

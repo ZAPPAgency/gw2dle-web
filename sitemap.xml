@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/skill/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/skill/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/competence/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/fertigkeit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/competence/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/skill/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/competence/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/fertigkeit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/fertigkeit/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/skill/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/competence/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/fertigkeit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/legendary/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legendary/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/legendaire/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/legendaer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/legendaire/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legendary/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/legendaire/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/legendaer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/legendaer/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legendary/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/legendaire/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/legendaer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/zone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/zone/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/zone/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/karte/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/zone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/zone/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/zone/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/karte/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/karte/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/zone/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/zone/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/karte/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/ueber/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/a-propos/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/ueber/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/ueber/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/a-propos/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/ueber/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/confidentialite/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/confidentialite/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/datenschutz/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/en/legal-notice/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/fr/mentions-legales/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+  <url>
+    <loc>https://zappagency.github.io/gw2dle-web/de/impressum/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/legal-notice/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/mentions-legales/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/impressum/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"/>
+  </url>
+</urlset>

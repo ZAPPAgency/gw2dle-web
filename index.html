@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>GW2dle · Unofficial fansite</title><meta name="description" content="Guess the Guild Wars 2 skill, legendary weapon and map of the day. Free, no sign-up, a new puzzle every day."><link rel="alternate" hreflang="en" href="https://zappagency.github.io/gw2dle-web/en/"><link rel="alternate" hreflang="fr" href="https://zappagency.github.io/gw2dle-web/fr/"><link rel="alternate" hreflang="de" href="https://zappagency.github.io/gw2dle-web/de/"><link rel="alternate" hreflang="x-default" href="https://zappagency.github.io/gw2dle-web/"><script>(function(){const config = "{\"key\":\"gw2dle:v1\",\"langs\":[\"en\",\"fr\",\"de\"],\"fallback\":\"en\",\"base\":\"/gw2dle-web/\"}";
+
+      (() => {
+        const c = JSON.parse(config);
+        let lang = null;
+        try {
+          const stored = JSON.parse(localStorage.getItem(c.key) || '{}');
+          if (stored && stored.settings && c.langs.includes(stored.settings.lang)) {
+            lang = stored.settings.lang;
+          }
+        } catch {
+          // Storage blocked: fall through to browser language.
+        }
+        if (!lang) {
+          const prefs = navigator.languages?.length ? navigator.languages : [navigator.language];
+          lang = prefs
+            .map((tag) => String(tag).toLowerCase().split('-')[0])
+            .find((base) => c.langs.includes(base));
+        }
+        location.replace(c.base + (lang || c.fallback) + '/');
+      })();
+    })();</script><noscript><meta http-equiv="refresh" content="0; url=/gw2dle-web/en/"></noscript></head><body><p><a href="/gw2dle-web/en/" lang="en">English</a><a href="/gw2dle-web/fr/" lang="fr">Français</a><a href="/gw2dle-web/de/" lang="de">Deutsch</a></p></body></html>
